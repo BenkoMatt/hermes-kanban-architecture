@@ -200,6 +200,8 @@ All 10 connected profiles access shared deep-reference skills via `external_dirs
 | `hermes-agent` | v2.2.0 | 20 | Hermes Agent internals — context files, memory providers, hooks, security model, provider resilience, code execution, persistent goals |
 | `honcho-deep-reference` | v1.0.0 | 12 | Honcho v3 memory system — architecture, reasoning, peer representations, design patterns, dreaming, CLI/SDK, Hermes integration |
 | `firecrawl-mastery` | v1.0.0 | 10 | Firecrawl v2 — scrape/search/crawl/map, interact, agent extraction, document parsing, PII redaction, monitoring, research index, CLI, MCP, errors |
+| `brave-search-mastery` | v1.0.0 | 7 | Brave Search API — LLM Context, Web Search, News Search, Answers, Goggles, search operators |
+| `formspree-mastery` | v1.0.0 | 10 | Formspree — claim URLs (AI agent flow), HTML/AJAX/React forms, 25+ integrations, CLI, API, spam protection, form rules, webhooks |
 
 Skills load on-demand only when a profile's task requires them — no context bloat. The isolated `work` profile has no access to shared skills.
 
