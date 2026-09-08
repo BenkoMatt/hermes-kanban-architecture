@@ -6,7 +6,7 @@ A multi-profile, Kanban-orchestrated agent architecture built on [Hermes Agent](
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    FATHER MATT (you)                         │
+│                        MATT (you)                     │
 │              chats in `daily` profile                        │
 │                                                             │
 │  "Route this through Kanban: build a room designer app"     │
@@ -76,7 +76,7 @@ A multi-profile, Kanban-orchestrated agent architecture built on [Hermes Agent](
 │                   BACK TO DAILY (Report)                      │
 │                                                             │
 │  Caddy reads the completed task, verifies the artifact,     │
-│  and reports the result back to Father Matt.                 │
+│  and reports the result back to Matt.                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
